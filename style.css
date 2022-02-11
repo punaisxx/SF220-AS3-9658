@@ -1,0 +1,30 @@
+body {
+  color:#355C7D;
+  background-color: plum;
+}
+h1 {
+  color: #C06C84;
+  background-color: #6C587B;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+a {font-weight: bold}
+
+ul {
+  color: #6C587B;
+  font-style: italic;
+}
+p {
+  color: #355C7D;
+  
+}
+h6 {
+  color: #C06C84;
+  background-color: #6C587B;
+  text-align: center;
+}
+h3 {
+  color: rgb(145, 47, 74);
+  font-family: Georgia, serif;
+}
+dl {color: rgb(175, 81, 108)}
